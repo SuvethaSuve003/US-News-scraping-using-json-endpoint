@@ -1,0 +1,210 @@
+University_Name,Location,Ranking,Tutionfee,Enrollment
+,,,,
+Massachusetts Institute of Technology,Cambridge,1,"[['full-time', '$53,450 per year']]","3,042"
+Stanford University,Stanford,2,"[['full-time', '$57,861 per year']]","3,092"
+University of California--Berkeley,Berkeley,3,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$26,544 per year (out-of-state)']]","2,055"
+California Institute of Technology,Pasadena,4,nun,534
+Carnegie Mellon University,Pittsburgh,4,"[['full-time', '$50,100 per year'], ['part-time', '$2,088 per credit']]","3,600"
+Purdue University--West Lafayette,West Lafayette,4,"[['full-time', '$10,330 per year (in-state)'], ['full-time', '$29,132 per year (out-of-state)'], ['part-time', '$329 per credit (in-state)'], ['part-time', '$929 per credit (out-of-state)']]","3,170"
+University of Michigan--Ann Arbor,Ann Arbor,7,"[['full-time', '$27,718 per year (in-state)'], ['full-time', '$52,098 per year (out-of-state)'], ['part-time', '$1,497 per credit (in-state)'], ['part-time', '$2,851 per credit (out-of-state)']]","3,113"
+Georgia Institute of Technology,Atlanta,8,"[['full-time', '$14,064 per year (in-state)'], ['full-time', '$29,140 per year (out-of-state)'], ['part-time', '$586 per credit (in-state)'], ['part-time', '$1,215 per credit (out-of-state)']]","3,830"
+University of California--San Diego (Jacobs),La Jolla,9,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$26,544 per year (out-of-state)'], ['part-time', '$5,721 per year (in-state)'], ['part-time', '$13,272 per year (out-of-state)']]","2,803"
+University of Illinois--Urbana-Champaign,Urbana,10,"[['full-time', '$18,998 per year (in-state)'], ['full-time', '$36,150 per year (out-of-state)']]","3,353"
+,,,,
+Texas A&M University--College Station,College Station,11,"[['full-time', '$282 per credit (in-state)'], ['full-time', '$794 per credit (out-of-state)'], ['part-time', '$282 per credit (in-state)'], ['part-time', '$794 per credit (out-of-state)']]","2,687"
+Cornell University,Ithaca,12,"[['full-time', '$29,500 per year'], ['part-time', '$2,441 per credit']]","2,387"
+University of Southern California (Viterbi),Los Angeles,12,"[['full-time', '$2,148 per credit'], ['part-time', '$2,148 per credit']]","3,656"
+University of Texas--Austin (Cockrell),Austin,12,"[['full-time', '$10,554 per year (in-state)'], ['full-time', '$19,320 per year (out-of-state)']]","1,977"
+Columbia University (Fu Foundation),New York,15,"[['full-time', '$52,704 per year'], ['part-time', '$2,196 per credit']]","2,032"
+University of California--Los Angeles (Samueli),Los Angeles,16,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$26,544 per year (out-of-state)']]","2,188"
+Johns Hopkins University (Whiting),Baltimore,17,"[['full-time', '$54,160 per year']]","1,906"
+University of Pennsylvania,Philadelphia,18,"[['full-time', '$42,312 per year']]","2,102"
+Northwestern University (McCormick),Evanston,19,"[['full-time', '$58,029 per year'], ['part-time', '$6,882 per credit']]","1,938"
+University of Maryland--College Park (Clark),College Park,20,"[['full-time', '$731 per credit (in-state)'], ['full-time', '$1,625 per credit (out-of-state)'], ['part-time', '$731 per credit (in-state)'], ['part-time', '$1,625 per credit (out-of-state)']]","1,422"
+,,,,
+Harvard University,Allston,21,"[['full-time', '$56,528 per year'], ['part-time', '$28,264 per year']]",693
+Princeton University,Princeton,22,nun,710
+University of Washington,Seattle,22,"[['full-time', '$18,654 per year (in-state)'], ['full-time', '$33,249 per year (out-of-state)'], ['part-time', '$889 per credit (in-state)'], ['part-time', '$1,584 per credit (out-of-state)']]","1,728"
+Duke University (Pratt),Durham,24,"[['full-time', '$55,680 per year'], ['part-time', '$3,230 per year']]","1,084"
+North Carolina State University,Raleigh,25,"[['full-time', '$9,095 per year (in-state)'], ['full-time', '$26,421 per year (out-of-state)'], ['part-time', '$4,547 per year (in-state)'], ['part-time', '$13,211 per year (out-of-state)']]","2,502"
+University of California--Santa Barbara,Santa Barbara,26,"[['full-time', '$12,570 per year (in-state)'], ['full-time', '$27,672 per year (out-of-state)']]",720
+University of Colorado--Boulder,Boulder,26,"[['full-time', '$17,068 per year (in-state)'], ['full-time', '$35,824 per year (out-of-state)']]","1,836"
+University of Wisconsin--Madison,Madison,26,"[['full-time', '$10,728 per year (in-state)'], ['full-time', '$24,054 per year (out-of-state)'], ['part-time', '$670 per credit (in-state)'], ['part-time', '$1,503 per credit (out-of-state)']]","1,396"
+Rice University (Brown),Houston,29,"[['full-time', '$51,500 per year'], ['part-time', '$2,861 per credit']]",930
+Ohio State University,Columbus,30,"[['full-time', '$11,560 per year (in-state)'], ['full-time', '$36,276 per year (out-of-state)'], ['part-time', '$723 per credit (in-state)'], ['part-time', '$2,267 per credit (out-of-state)']]","1,474"
+,,,,
+Northeastern University,Boston,31,"[['full-time', '$1,664 per credit'], ['part-time', '$1,664 per credit']]","5,820"
+Virginia Tech,Blacksburg,31,"[['full-time', '$13,701 per year (in-state)'], ['full-time', '$27,614 per year (out-of-state)'], ['part-time', '$7,612 per year (in-state)'], ['part-time', '$15,340 per year (out-of-state)']]","1,815"
+Pennsylvania State University--University Park,University Park,33,"[['full-time', '$23,928 per year (in-state)'], ['full-time', '$39,720 per year (out-of-state)'], ['part-time', '$997 per credit (in-state)'], ['part-time', '$1,655 per credit (out-of-state)']]","1,848"
+University of California--Davis,Davis,33,"[['full-time', '$13,598 per year (in-state)'], ['full-time', '$28,700 per year (out-of-state)'], ['part-time', '$7,877 per year (in-state)'], ['part-time', '$15,428 per year (out-of-state)']]","1,208"
+University of Minnesota--Twin Cities,Minneapolis,33,"[['full-time', '$1,465 per credit (in-state)'], ['full-time', '$2,267 per credit (out-of-state)'], ['part-time', '$1,465 per credit (in-state)'], ['part-time', '$2,267 per credit (out-of-state)']]","1,450"
+Boston University,Boston,36,"[['full-time', '$56,854 per year'], ['part-time', '$1,777 per credit']]","1,044"
+New York University (Tandon),Brooklyn,36,"[['full-time', '$1,869 per credit'], ['part-time', '$1,869 per credit']]","2,103"
+University of California--Irvine (Samueli),Irvine,38,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$26,544 per year (out-of-state)'], ['part-time', '$5,721 per year (in-state)'], ['part-time', '$13,272 per year (out-of-state)']]","1,645"
+University of Virginia,Charlottesville,38,"[['full-time', '$17,820 per year (in-state)'], ['full-time', '$29,464 per year (out-of-state)'], ['part-time', '$726 per credit (in-state)'], ['part-time', '$1,192 per credit (out-of-state)']]",910
+Yale University,New Haven,38,"[['full-time', '$44,500 per year'], ['part-time', '$5,563 per credit']]",376
+,,,,
+Arizona State University (Fulton),Tempe,41,"[['full-time', '$11,720 per year (in-state)'], ['full-time', '$31,400 per year (out-of-state)'], ['part-time', '$837 per credit (in-state)'], ['part-time', '$1,308 per credit (out-of-state)']]","2,597"
+Vanderbilt University,Nashville,41,"[['full-time', '$37,566 per year'], ['part-time', '$2,087 per credit']]",515
+Rensselaer Polytechnic Institute,Troy,43,"[['full-time', '$55,600 per year'], ['part-time', '$2,320 per credit']]",655
+University of Rochester (Hajim),Rochester,43,"[['full-time', '$1,784 per credit'], ['part-time', '$1,784 per credit']]",593
+University of Dayton,Dayton,45,"[['full-time', '$985 per credit'], ['part-time', '$985 per credit']]",703
+University of Florida,Gainesville,45,"[['full-time', '$10,770 per year (in-state)'], ['full-time', '$27,335 per year (out-of-state)'], ['part-time', '$449 per credit (in-state)'], ['part-time', '$1,139 per credit (out-of-state)']]","1,900"
+Iowa State University,Ames,47,"[['full-time', '$12,494 per year (in-state)'], ['full-time', '$27,892 per year (out-of-state)']]","1,247"
+University of Delaware,Newark,47,"[['full-time', '$34,164 per year (in-state)'], ['full-time', '$34,164 per year (out-of-state)'], ['part-time', '$1,898 per credit (in-state)'], ['part-time', '$1,898 per credit (out-of-state)']]",796
+University of Notre Dame,Notre Dame,47,"[['full-time', '$57,050 per year']]",576
+University of Pittsburgh (Swanson),Pittsburgh,47,"[['full-time', '$27,010 per year (in-state)'], ['full-time', '$45,808 per year (out-of-state)'], ['part-time', '$1,280 per credit (in-state)'], ['part-time', '$2,166 per credit (out-of-state)']]",760
+,,,,
+Washington University in St. Louis,St. Louis,47,"[['full-time', '$56,300 per year'], ['part-time', '$1,994 per credit']]","1,056"
+Case Western Reserve University,Cleveland,52,"[['full-time', '$47,920 per year'], ['part-time', '$1,997 per credit']]",685
+Dartmouth College (Thayer),Hanover,53,"[['full-time', '$55,795 per year']]",295
+Brown University,Providence,54,"[['full-time', '$8,633 per credit'], ['part-time', '$8,633 per credit']]",462
+Colorado School of Mines,Golden,54,"[['full-time', '$16,650 per year (in-state)'], ['full-time', '$37,350 per year (out-of-state)']]","1,134"
+Rutgers University--New Brunswick,Piscataway,54,"[['full-time', '$17,736 per year (in-state)'], ['full-time', '$30,144 per year (out-of-state)'], ['part-time', '$739 per credit (in-state)'], ['part-time', '$1,256 per credit (out-of-state)']]",734
+University of Massachusetts--Amherst,Amherst,54,"[['full-time', '$14,014 per year (in-state)'], ['full-time', '$30,120 per year (out-of-state)'], ['part-time', '$4,163 per credit (in-state)'], ['part-time', '$8,086 per credit (out-of-state)']]","1,054"
+University of Utah,Salt Lake City,58,"[['full-time', '$8,247 per year (in-state)'], ['full-time', '$25,286 per year (out-of-state)'], ['part-time', '$6,091 per year (in-state)'], ['part-time', '$18,969 per year (out-of-state)']]","1,244"
+Michigan State University,East Lansing,59,"[['full-time', '$876 per credit (in-state)'], ['full-time', '$1,641 per credit (out-of-state)']]",914
+University at Buffalo--SUNY,Buffalo,59,"[['full-time', '$11,310 per year (in-state)'], ['full-time', '$23,100 per year (out-of-state)'], ['part-time', '$471 per credit (in-state)'], ['part-time', '$963 per credit (out-of-state)']]","1,358"
+,,,,
+University of Tennessee--Knoxville (Tickle),Knoxville,59,"[['full-time', '$639 per credit (in-state)'], ['full-time', '$1,650 per credit (out-of-state)'], ['part-time', '$639 per credit (in-state)'], ['part-time', '$1,650 per credit (out-of-state)']]",856
+Stony Brook University--SUNY,Stony Brook,62,"[['full-time', '$11,310 per year (in-state)'], ['full-time', '$23,100 per year (out-of-state)'], ['part-time', '$471 per credit (in-state)'], ['part-time', '$963 per credit (out-of-state)']]","1,052"
+University of Arizona,Tucson,62,"[['full-time', '$11,938 per year (in-state)'], ['full-time', '$32,065 per year (out-of-state)'], ['part-time', '$853 per credit (in-state)'], ['part-time', '$1,781 per credit (out-of-state)']]",720
+University of Texas--Dallas (Jonsson),Richardson,62,"[['full-time', '$14,560 per year (in-state)'], ['full-time', '$28,610 per year (out-of-state)']]","1,355"
+Tufts University,Medford,65,"[['full-time', '$50,910 per year'], ['part-time', '$1,697 per credit']]",493
+Auburn University (Ginn),Auburn,66,"[['full-time', '$10,080 per year (in-state)'], ['full-time', '$30,240 per year (out-of-state)'], ['part-time', '$560 per credit (in-state)'], ['part-time', '$1,680 per credit (out-of-state)']]",578
+Colorado State University (Scott),Fort Collins,66,"[['full-time', '$584 per credit (in-state)'], ['full-time', '$1,433 per credit (out-of-state)'], ['part-time', '$584 per credit (in-state)'], ['part-time', '$1,433 per credit (out-of-state)']]",740
+Lehigh University (Rossin),Bethlehem,66,"[['full-time', '$1,500 per credit'], ['part-time', '$1,500 per credit']]",507
+Rochester Institute of Technology (Gleason),Rochester,66,"[['full-time', '$50,136 per year'], ['part-time', '$2,089 per credit']]",816
+University of Houston (Cullen),Houston,66,"[['full-time', '$9,615 per year (in-state)'], ['full-time', '$18,748 per year (out-of-state)'], ['part-time', '$6,410 per year (in-state)'], ['part-time', '$12,499 per year (out-of-state)']]",892
+,,,,
+Clemson University,Clemson,71,"[['full-time', '$10,600 per year (in-state)'], ['full-time', '$22,050 per year (out-of-state)'], ['part-time', '$724 per credit (in-state)'], ['part-time', '$1,451 per credit (out-of-state)']]","1,108"
+Oregon State University,Corvallis,71,"[['full-time', '$14,796 per year (in-state)'], ['full-time', '$27,648 per year (out-of-state)'], ['part-time', '$548 per credit (in-state)'], ['part-time', '$1,024 per credit (out-of-state)']]",988
+University of Central Florida,Orlando,71,"[['full-time', '$288 per credit (in-state)'], ['full-time', '$1,073 per credit (out-of-state)'], ['part-time', '$288 per credit (in-state)'], ['part-time', '$1,073 per credit (out-of-state)']]","1,005"
+University of Connecticut,Storrs,71,"[['full-time', '$16,908 per year (in-state)'], ['full-time', '$38,820 per year (out-of-state)'], ['part-time', '$940 per credit (in-state)'], ['part-time', '$2,157 per credit (out-of-state)']]",598
+George Washington University,Washington,75,"[['full-time', '$1,825 per credit'], ['part-time', '$1,825 per credit']]",820
+University of North Carolina--Chapel Hill,Chapel Hill,75,"[['full-time', '$11,418 per year (in-state)'], ['full-time', '$28,387 per year (out-of-state)']]",130
+Washington State University,Pullman,77,"[['full-time', '$6,169 per year (in-state)'], ['full-time', '$13,218 per year (out-of-state)'], ['part-time', '$617 per credit (in-state)'], ['part-time', '$1,322 per credit (out-of-state)']]",498
+Wichita State University,Wichita,77,"[['full-time', '$5,544 per year (in-state)'], ['full-time', '$13,615 per year (out-of-state)'], ['part-time', '$2,772 per year (in-state)'], ['part-time', '$6,808 per year (out-of-state)']]",208
+Drexel University,Philadelphia,79,"[['full-time', '$1,342 per credit'], ['part-time', '$1,342 per credit']]",493
+Stevens Institute of Technology (Schaefer),Hoboken,79,"[['full-time', '$37,414 per year'], ['part-time', '$1,686 per credit']]","1,295"
+,,,,
+Syracuse University,Syracuse,79,"[['full-time', '$1,683 per credit'], ['part-time', '$1,683 per credit']]",648
+University of California--Riverside (Bourns),Riverside,79,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$29,754 per year (out-of-state)'], ['part-time', '$5,721 per year (in-state)'], ['part-time', '$14,877 per year (out-of-state)']]",767
+University of Illinois--Chicago,Chicago,79,"[['full-time', '$16,298 per year (in-state)'], ['full-time', '$29,166 per year (out-of-state)'], ['part-time', '$10,866 per year (in-state)'], ['part-time', '$19,444 per year (out-of-state)']]",935
+Missouri University of Science & Technology--Rolla,Rolla,84,"[['full-time', '$435 per credit (in-state)'], ['full-time', '$1,232 per credit (out-of-state)'], ['part-time', '$435 per credit (in-state)'], ['part-time', '$1,232 per credit (out-of-state)']]",564
+University of Iowa,Iowa City,84,"[['full-time', '$10,079 per year (in-state)'], ['full-time', '$29,026 per year (out-of-state)']]",318
+University of New Mexico,Albuquerque,84,"[['full-time', '$444 per credit (in-state)'], ['full-time', '$1,142 per credit (out-of-state)']]",767
+University of Texas--Arlington,Arlington,84,"[['full-time', '$8,869 per year (in-state)'], ['full-time', '$21,701 per year (out-of-state)'], ['part-time', '$6,006 per year (in-state)'], ['part-time', '$14,668 per year (out-of-state)']]","1,398"
+Illinois Institute of Technology (Armour),Chicago,88,"[['full-time', '$29,052 per year'], ['part-time', '$1,614 per credit']]",769
+Michigan Technological University,Houghton,88,"[['full-time', '$1,285 per credit (in-state)'], ['full-time', '$1,285 per credit (out-of-state)'], ['part-time', '$1,285 per credit (in-state)'], ['part-time', '$1,285 per credit (out-of-state)']]",508
+New Jersey Institute of Technology,Newark,88,"[['full-time', '$20,624 per year (in-state)'], ['full-time', '$30,540 per year (out-of-state)'], ['part-time', '$1,122 per credit (in-state)'], ['part-time', '$1,603 per credit (out-of-state)']]","1,016"
+,,,,
+University of California--Santa Cruz (Baskin),Santa Cruz,88,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$26,544 per year (out-of-state)'], ['part-time', '$5,721 per year (in-state)'], ['part-time', '$13,272 per year (out-of-state)']]",615
+University of Cincinnati,Cincinnati,92,"[['full-time', '$13,224 per year (in-state)'], ['full-time', '$24,996 per year (out-of-state)'], ['part-time', '$662 per credit (in-state)'], ['part-time', '$1,249 per credit (out-of-state)']]","1,027"
+George Mason University (Volgenau),Fairfax,93,"[['full-time', '$640 per credit (in-state)'], ['full-time', '$1,413 per credit (out-of-state)'], ['part-time', '$640 per credit (in-state)'], ['part-time', '$1,413 per credit (out-of-state)']]",834
+Mississippi State University (Bagley),Mississippi State,93,"[['full-time', '$8,800 per year (in-state)'], ['full-time', '$15,040 per year (out-of-state)'], ['part-time', '$489 per credit (in-state)'], ['part-time', '$836 per credit (out-of-state)']]",432
+Naval Postgraduate School,Monterey,93,nun,580
+University of Nebraska--Lincoln,Lincoln,93,"[['full-time', '$8,496 per year (in-state)'], ['full-time', '$23,130 per year (out-of-state)'], ['part-time', '$2,832 per year (in-state)'], ['part-time', '$7,710 per year (out-of-state)']]",477
+Worcester Polytechnic Institute,Worcester,93,"[['full-time', '$28,980 per year'], ['part-time', '$1,610 per credit']]",434
+Florida A&M University - Florida State University,Tallahassee,98,"[['full-time', '$9,630 per year (in-state)'], ['full-time', '$22,270 per year (out-of-state)']]",501
+Texas Tech University (Whitacre),Lubbock,98,"[['full-time', '$8,136 per year (in-state)'], ['full-time', '$17,952 per year (out-of-state)'], ['part-time', '$339 per credit (in-state)'], ['part-time', '$748 per credit (out-of-state)']]",671
+University of South Florida,Tampa,98,"[['full-time', '$467 per credit (in-state)'], ['full-time', '$913 per credit (out-of-state)'], ['part-time', '$467 per credit (in-state)'], ['part-time', '$913 per credit (out-of-state)']]",722
+,,,,
+Brigham Young University,Provo,101,"[['full-time', '$7,510 per year (LDS member)'], ['full-time', '$15,020 per year (Non-LDS member)']]",413
+Embry-Riddle Aeronautical University,Daytona Beach,101,"[['full-time', '$18,228 per year'], ['part-time', '$9,114 per year']]",313
+University of Alabama--Huntsville,Huntsville,101,"[['full-time', '$10,632 per year (in-state)'], ['full-time', '$24,430 per year (out-of-state)'], ['part-time', '$9,668 per credit (in-state)'], ['part-time', '$22,182 per credit (out-of-state)']]",228
+University of Kentucky,Lexington,101,"[['full-time', '$13,538 per year (in-state)'], ['full-time', '$33,216 per year (out-of-state)'], ['part-time', '$734 per credit (in-state)'], ['part-time', '$1,827 per credit (out-of-state)']]",389
+University of Miami,Coral Gables,101,"[['full-time', '$2,170 per credit'], ['part-time', '$2,170 per credit']]",235
+University of Oklahoma,Norman,101,"[['full-time', '$289 per credit (in-state)'], ['full-time', '$900 per credit (out-of-state)'], ['part-time', '$289 per credit (in-state)'], ['part-time', '$900 per credit (out-of-state)']]",415
+University of South Carolina,Columbia,101,"[['full-time', '$15,709 per year (in-state)'], ['full-time', '$31,735 per year (out-of-state)'], ['part-time', '$572 per credit (in-state)'], ['part-time', '$1,240 per credit (out-of-state)']]",466
+Kansas State University,Manhattan,108,"[['full-time', '$426 per credit (in-state)'], ['full-time', '$960 per credit (out-of-state)'], ['part-time', '$426 per credit (in-state)'], ['part-time', '$960 per credit (out-of-state)']]",231
+Oklahoma State University,Stillwater,108,"[['full-time', '$230 per credit (in-state)'], ['full-time', '$876 per credit (out-of-state)'], ['part-time', '$230 per credit (in-state)'], ['part-time', '$876 per credit (out-of-state)']]",322
+University of Kansas,Lawrence,108,"[['full-time', '$8,530 per year (in-state)'], ['full-time', '$19,002 per year (out-of-state)'], ['part-time', '$474 per credit (in-state)'], ['part-time', '$1,056 per credit (out-of-state)']]",381
+,,,,
+University of Maryland--Baltimore County,Baltimore,108,"[['full-time', '$659 per credit (in-state)'], ['full-time', '$1,132 per credit (out-of-state)'], ['part-time', '$659 per credit (in-state)'], ['part-time', '$1,132 per credit (out-of-state)']]",649
+University of Missouri,Columbia,108,"[['full-time', '$7,101 per year (in-state)'], ['full-time', '$19,460 per year (out-of-state)']]",202
+Binghamton University--SUNY (Watson),Binghamton,113,"[['full-time', '$11,310 per year (in-state)'], ['full-time', '$23,100 per year (out-of-state)'], ['part-time', '$471 per credit (in-state)'], ['part-time', '$963 per credit (out-of-state)']]",881
+Louisiana State University--Baton Rouge,Baton Rouge,113,"[['full-time', '$8,728 per year (in-state)'], ['full-time', '$25,643 per year (out-of-state)'], ['part-time', '$3,976 per year (in-state)'], ['part-time', '$11,215 per year (out-of-state)']]",436
+SMU (Lyle),Dallas,113,"[['full-time', '$1,200 per credit'], ['part-time', '$1,200 per credit']]",251
+University of Arkansas--Fayetteville,Fayetteville,113,"[['full-time', '$11,655 per year (in-state)'], ['full-time', '$31,617 per year (out-of-state)'], ['part-time', '$5,827 per year (in-state)'], ['part-time', '$15,809 per year (out-of-state)']]",348
+University of Georgia,Athens,113,"[['full-time', '$13,317 per year (in-state)'], ['full-time', '$37,779 per year (out-of-state)'], ['part-time', '$370 per credit (in-state)'], ['part-time', '$1,050 per credit (out-of-state)']]",158
+Utah State University,Logan,113,"[['full-time', '$6,164 per year (in-state)'], ['full-time', '$21,575 per year (out-of-state)'], ['part-time', '$4,385 per year (in-state)'], ['part-time', '$15,347 per year (out-of-state)']]",307
+Oregon Health and Science University,Portland,119,nun,61
+University of California--Merced,Merced,119,"[['full-time', '$11,442 per year (in-state)'], ['full-time', '$15,102 per year (out-of-state)']]",223
+,,,,
+Clarkson University,Potsdam,121,"[['full-time', '$24,984 per year'], ['part-time', '$1,388 per credit']]",190
+Marquette University,Milwaukee,121,"[['full-time', '$1,205 per credit'], ['part-time', '$1,205 per credit']]",107
+Temple University,Philadelphia,121,"[['full-time', '$20,430 per year (in-state)'], ['full-time', '$26,820 per year (out-of-state)'], ['part-time', '$1,135 per credit (in-state)'], ['part-time', '$1,490 per credit (out-of-state)']]",234
+Tulane University,New Orleans,121,nun,125
+Virginia Commonwealth University,Richmond,121,"[['full-time', '$12,618 per year (in-state)'], ['full-time', '$25,956 per year (out-of-state)'], ['part-time', '$701 per credit (in-state)'], ['part-time', '$1,442 per credit (out-of-state)']]",203
+West Virginia University (Statler),Morgantown,121,"[['full-time', '$5,796 per year (in-state)'], ['full-time', '$14,157 per year (out-of-state)'], ['part-time', '$644 per credit (in-state)'], ['part-time', '$1,573 per credit (out-of-state)']]",419
+Baylor University,Waco,127,"[['full-time', '$40,832 per year']]",128
+CUNY--City College (Grove),New York,127,"[['full-time', '$12,970 per year (in-state)'], ['full-time', '$17,010 per year (out-of-state)'], ['part-time', '$550 per credit (in-state)'], ['part-time', '$945 per credit (out-of-state)']]",277
+Florida International University,Miami,127,"[['full-time', '$10,944 per year (in-state)'], ['full-time', '$24,048 per year (out-of-state)'], ['part-time', '$456 per credit (in-state)'], ['part-time', '$1,002 per credit (out-of-state)']]",659
+University of Louisville (Speed),Louisville,127,"[['full-time', '$13,260 per year (in-state)'], ['full-time', '$27,374 per year (out-of-state)'], ['part-time', '$737 per credit (in-state)'], ['part-time', '$1,521 per credit (out-of-state)']]",367
+,,,,
+University of Alabama,Tuscaloosa,131,"[['full-time', '$10,780 per year (in-state)'], ['full-time', '$30,250 per year (out-of-state)'], ['part-time', '$615 per credit (in-state)'], ['part-time', '$1,550 per credit (out-of-state)']]",412
+University of Massachusetts--Lowell (Francis),Lowell,131,"[['full-time', '$14,590 per year (in-state)'], ['full-time', '$26,370 per year (out-of-state)'], ['part-time', '$811 per credit (in-state)'], ['part-time', '$1,465 per credit (out-of-state)']]",477
+University of Nevada--Reno,Reno,131,"[['full-time', '$7,152 per year (in-state)'], ['full-time', '$22,802 per year (out-of-state)'], ['part-time', '$6,191 per year (in-state)'], ['part-time', '$8,203 per year (out-of-state)']]",263
+Indiana University-Purdue University--Indianapolis,Indianapolis,134,"[['full-time', '$420 per credit (in-state)'], ['full-time', '$1,275 per credit (out-of-state)'], ['part-time', '$420 per credit (in-state)'], ['part-time', '$1,275 per credit (out-of-state)']]",109
+Montana State University,Bozeman,134,"[['full-time', '$283 per credit (in-state)'], ['full-time', '$1,093 per credit (out-of-state)']]",234
+Santa Clara University,Santa Clara,134,"[['full-time', '$1,044 per credit'], ['part-time', '$1,044 per credit']]",338
+Wayne State University,Detroit,134,"[['full-time', '$18,901 per year (in-state)'], ['full-time', '$37,890 per year (out-of-state)'], ['part-time', '$788 per credit (in-state)'], ['part-time', '$1,579 per credit (out-of-state)']]",482
+Boise State University,Boise,138,"[['full-time', '$7,110 per year (in-state)'], ['full-time', '$24,030 per year (out-of-state)'], ['part-time', '$252 per credit (in-state)'], ['part-time', '$609 per credit (out-of-state)']]",181
+Ohio University (Russ),Athens,138,"[['full-time', '$8,188 per year (in-state)'], ['full-time', '$16,180 per year (out-of-state)'], ['part-time', '$505 per credit (in-state)'], ['part-time', '$1,001 per credit (out-of-state)']]",205
+San Diego State University,San Diego,138,"[['full-time', '$9,504 per year'], ['part-time', '$4,752 per year']]",146
+,,,,
+University of Alabama--Birmingham,Birmingham,138,"[['full-time', '$450 per credit (in-state)'], ['full-time', '$1,066 per credit (out-of-state)'], ['part-time', '$450 per credit (in-state)'], ['part-time', '$1,066 per credit (out-of-state)']]",200
+University of Colorado--Denver,Denver,138,"[['full-time', '$11,268 per year (in-state)'], ['full-time', '$24,804 per year (out-of-state)'], ['part-time', '$3,756 per year (in-state)'], ['part-time', '$8,268 per year (out-of-state)']]",287
+University of Idaho,Moscow,138,"[['full-time', '$9,876 per year (in-state)'], ['full-time', '$29,112 per year (out-of-state)'], ['part-time', '$549 per credit (in-state)'], ['part-time', '$1,618 per credit (out-of-state)']]",200
+University of New Hampshire,Durham,138,"[['full-time', '$15,604 per year (in-state)'], ['full-time', '$29,244 per year (out-of-state)'], ['part-time', '$865 per credit (in-state)'], ['part-time', '$1,448 per credit (out-of-state)']]",177
+University of Tulsa,Tulsa,138,"[['full-time', '$1,310 per credit'], ['part-time', '$1,310 per credit']]",182
+University of Vermont,Burlington,138,"[['full-time', '$683 per credit (in-state)'], ['full-time', '$1,720 per credit (out-of-state)'], ['part-time', '$683 per credit (in-state)'], ['part-time', '$1,720 per credit (out-of-state)']]",133
+University of Wisconsin--Milwaukee,Milwaukee,138,"[['full-time', '$11,864 per year (in-state)'], ['full-time', '$25,295 per year (out-of-state)'], ['part-time', '$1,072 per credit (in-state)'], ['part-time', '$1,912 per credit (out-of-state)']]",288
+University of Wyoming,Laramie,138,"[['full-time', '$282 per credit (in-state)'], ['full-time', '$843 per credit (out-of-state)'], ['part-time', '$282 per credit (in-state)'], ['part-time', '$843 per credit (out-of-state)']]",187
+Howard University,Washington,149,"[['full-time', '$32,248 per year'], ['part-time', '$1,750 per credit']]",59
+New Mexico State University,Las Cruces,149,"[['full-time', '$4,981 per year (in-state)'], ['full-time', '$17,330 per year (out-of-state)'], ['part-time', '$277 per credit (in-state)'], ['part-time', '$963 per credit (out-of-state)']]",286
+,,,,
+South Dakota School of Mines and Technology,Rapid City,149,"[['full-time', '$347 per credit (in-state)'], ['full-time', '$679 per credit (out-of-state)'], ['part-time', '$347 per credit (in-state)'], ['part-time', '$679 per credit (out-of-state)']]",146
+University of Akron,Akron,149,"[['full-time', '$10,608 per year (in-state)'], ['full-time', '$17,952 per year (out-of-state)'], ['part-time', '$442 per credit (in-state)'], ['part-time', '$702 per credit (out-of-state)']]",335
+University of North Carolina--Charlotte (Lee),Charlotte,149,"[['full-time', '$4,710 per year (in-state)'], ['full-time', '$11,427 per year (out-of-state)'], ['part-time', '$2,304 per year (in-state)'], ['part-time', '$5,662 per year (out-of-state)']]",299
+Alfred University--New York State College of Ceramics  (Inamori),Alfred,154-202,"[['full-time', '$22,520 per year'], ['part-time', '$810 per credit']]",30
+California State University--Long Beach,Long Beach,154-202,"[['full-time', '$8,280 per year (in-state)'], ['full-time', '$15,408 per year (out-of-state)']]",203
+Cleveland State University (Washkewicz),Cleveland,154-202,"[['full-time', '$568 per credit (in-state)'], ['full-time', '$1,073 per credit (out-of-state)'], ['part-time', '$568 per credit (in-state)'], ['part-time', '$1,073 per credit (out-of-state)']]",309
+Florida Atlantic University,Boca Raton,154-202,"[['full-time', '$372 per credit (in-state)'], ['full-time', '$1,027 per credit (out-of-state)'], ['part-time', '$372 per credit (in-state)'], ['part-time', '$1,027 per credit (out-of-state)']]",182
+Florida Institute of Technology,Melbourne,154-202,"[['full-time', '$1,241 per credit'], ['part-time', '$1,241 per credit']]",313
+Jackson State University,Jackson,154-202,"[['full-time', '$8,270 per year (in-state)'], ['full-time', '$10,445 per year (out-of-state)'], ['part-time', '$460 per credit (in-state)'], ['part-time', '$960 per credit (out-of-state)']]",42
+Lamar University,Beaumont,154-202,"[['full-time', '$6,324 per year (in-state)'], ['full-time', '$13,920 per year (out-of-state)'], ['part-time', '$351 per credit (in-state)'], ['part-time', '$773 per credit (out-of-state)']]",184
+,,,,
+Lawrence Technological University,Southfield,154-202,"[['full-time', '$17,318 per year'], ['part-time', '$8,659 per year']]",21
+Louisiana Tech University,Ruston,154-202,"[['full-time', '$4,806 per year (in-state)'], ['full-time', '$9,537 per year (out-of-state)'], ['part-time', '$2,322 per year (in-state)'], ['part-time', '$2,322 per year (out-of-state)']]",191
+Morgan State University (Mitchell),Baltimore,154-202,"[['full-time', '$455 per credit (in-state)'], ['full-time', '$894 per credit (out-of-state)'], ['part-time', '$455 per credit (in-state)'], ['part-time', '$894 per credit (out-of-state)']]",111
+New Mexico Institute of Mining and Technology,Socorro,154-202,"[['full-time', '$7,344 per year (in-state)'], ['full-time', '$24,292 per year (out-of-state)'], ['part-time', '$4,896 per year (in-state)'], ['part-time', '$4,896 per year (out-of-state)']]",129
+North Carolina A&T State University,Greensboro,154-202,"[['full-time', '$4,745 per year (in-state)'], ['full-time', '$17,545 per year (out-of-state)'], ['part-time', '$3,559 per year (in-state)'], ['part-time', '$13,159 per year (out-of-state)']]",204
+North Dakota State University,Fargo,154-202,"[['full-time', '$478 per credit (in-state)'], ['full-time', '$643 per credit (out-of-state)'], ['part-time', '$478 per credit (in-state)'], ['part-time', '$643 per credit (out-of-state)']]",173
+Oakland University,Rochester,154-202,"[['full-time', '$770 per credit (in-state)'], ['full-time', '$1,027 per credit (out-of-state)'], ['part-time', '$770 per credit (in-state)'], ['part-time', '$1,027 per credit (out-of-state)']]",342
+Old Dominion University  (Batten),Norfolk,154-202,"[['full-time', '$551 per credit (in-state)'], ['full-time', '$1,387 per credit (out-of-state)'], ['part-time', '$551 per credit (in-state)'], ['part-time', '$1,387 per credit (out-of-state)']]",216
+Portland State University (Maseeh),Portland,154-202,"[['full-time', '$497 per credit (in-state)'], ['full-time', '$724 per credit (out-of-state)'], ['part-time', '$497 per credit (in-state)'], ['part-time', '$724 per credit (out-of-state)']]",317
+Prairie View A&M University,Prairie View,154-202,"[['full-time', '$5,096 per year (in-state)'], ['full-time', '$14,316 per year (out-of-state)'], ['part-time', '$5,096 per year (in-state)'], ['part-time', '$14,316 per year (out-of-state)']]",88
+,,,,
+Saint Louis University (Parks),St. Louis,154-202,"[['full-time', '$1,190 per credit'], ['part-time', '$1,190 per credit']]",101
+South Dakota State University,Brookings,154-202,"[['full-time', '$337 per credit (in-state)'], ['full-time', '$466 per credit (out-of-state)'], ['part-time', '$337 per credit (in-state)'], ['part-time', '$466 per credit (out-of-state)']]",105
+Southern Illinois University--Carbondale,Carbondale,154-202,"[['full-time', '$5,634 per year (in-state)'], ['full-time', '$14,084 per year (out-of-state)'], ['part-time', '$2,817 per year (in-state)'], ['part-time', '$7,042 per year (out-of-state)']]",169
+SUNY College of Environmental Science and Forestry,Syracuse,154-202,"[['full-time', '$11,310 per year (in-state)'], ['full-time', '$23,100 per year (out-of-state)'], ['part-time', '$472 per credit (in-state)'], ['part-time', '$693 per credit (out-of-state)']]",43
+SUNY Polytechnic Institute,Albany,154-202,"[['full-time', '$471 per credit (in-state)'], ['full-time', '$963 per credit (out-of-state)'], ['part-time', '$471 per credit (in-state)'], ['part-time', '$963 per credit (out-of-state)']]",40
+Tennessee State University,Nashville,154-202,"[['full-time', '$1,158 per year (in-state)'], ['full-time', '$10,476 per year (out-of-state)'], ['part-time', '$864 per year (in-state)'], ['part-time', '$6,984 per year (out-of-state)']]",58
+Tennessee Technological University,Cookeville,154-202,"[['full-time', '$514 per credit (in-state)'], ['full-time', '$726 per credit (out-of-state)'], ['part-time', '$514 per credit (in-state)'], ['part-time', '$726 per credit (out-of-state)']]",184
+Texas A&M University--Kingsville (Dotterweich),Kingsville,154-202,"[['full-time', '$3,408 per year (in-state)'], ['full-time', '$10,770 per year (out-of-state)'], ['part-time', '$519 per credit (in-state)'], ['part-time', '$1,197 per credit (out-of-state)']]",216
+The Catholic University of America,Washington,154-202,"[['full-time', '$50,260 per year'], ['part-time', '$1,975 per credit']]",135
+University of Alaska--Fairbanks,Fairbanks,154-202,"[['full-time', '$11,088 per year (in-state)'], ['full-time', '$21,276 per year (out-of-state)'], ['part-time', '$7,392 per year (in-state)'], ['part-time', '$14,184 per year (out-of-state)']]",34
+,,,,
+University of Arkansas--Little Rock,Little Rock,154-202,"[['full-time', '$345 per credit (in-state)'], ['full-time', '$740 per credit (out-of-state)'], ['part-time', '$345 per credit (in-state)'], ['part-time', '$740 per credit (out-of-state)']]",117
+University of Colorado--Colorado Springs,Colorado Springs,154-202,"[['full-time', '$746 per credit (in-state)'], ['full-time', '$1,314 per credit (out-of-state)'], ['part-time', '$767 per credit (in-state)'], ['part-time', '$1,335 per credit (out-of-state)']]",25
+University of Denver,Denver,154-202,"[['full-time', '$35,064 per year'], ['part-time', '$1,461 per credit']]",260
+University of Detroit Mercy,Detroit,154-202,"[['full-time', '$824 per credit'], ['part-time', '$824 per credit']]",107
+University of Hawaii--Manoa,Honolulu,154-202,"[['full-time', '$10,400 per year (in-state)'], ['full-time', '$22,432 per year (out-of-state)'], ['part-time', '$650 per credit (in-state)'], ['part-time', '$1,402 per credit (out-of-state)']]",154
+University of Louisiana--Lafayette,Lafayette,154-202,"[['full-time', '$5,511 per year (in-state)'], ['full-time', '$19,238 per year (out-of-state)'], ['part-time', '$563 per credit (in-state)'], ['part-time', '$1,326 per credit (out-of-state)']]",211
+University of Maine,Orono,154-202,"[['full-time', '$461 per credit (in-state)'], ['full-time', '$1,503 per credit (out-of-state)'], ['part-time', '$461 per credit (in-state)'], ['part-time', '$1,503 per credit (out-of-state)']]",190
+University of Massachusetts--Dartmouth,North Dartmouth,154-202,"[['full-time', '$16,390 per year (in-state)'], ['full-time', '$29,578 per year (out-of-state)'], ['part-time', '$683 per credit (in-state)'], ['part-time', '$1,232 per credit (out-of-state)']]",156
+University of Memphis (Herff),Memphis,154-202,"[['full-time', '$597 per credit (in-state)'], ['full-time', '$789 per credit (out-of-state)'], ['part-time', '$597 per credit (in-state)'], ['part-time', '$789 per credit (out-of-state)']]",144
+University of Michigan--Dearborn,Dearborn,154-202,"[['full-time', '$810 per credit (in-state)'], ['full-time', '$1,437 per credit (out-of-state)'], ['part-time', '$810 per credit (in-state)'], ['part-time', '$1,437 per credit (out-of-state)']]",287
